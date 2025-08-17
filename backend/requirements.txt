@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain>=0.2.11
+langchain-community>=0.2.10
+langchain-google-genai>=1.0.6
+pypdf
+faiss-cpu
+pydantic<3
